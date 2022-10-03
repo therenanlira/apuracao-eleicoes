@@ -27,4 +27,4 @@ print(df_eleicao)
 
 diferenca = round((float((porcentagem[0].replace(",", "."))) - 50), 3)
 
-print("\nFaltam", diferenca, "% para o", candidato[0], "ganhar 🦑🇧🇷")
+print("\nFaltam", diferenca, "% para o", candidato[0], "ganhar 🇧🇷")
