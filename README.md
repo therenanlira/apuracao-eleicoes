@@ -1,3 +1,4 @@
+
 # Apuração das Eleições
 
 ## Instalação
@@ -5,6 +6,7 @@
 Necessário instalar as bibliotecas:
 
 > requests
+
 > pandas
 
 ## Execução
